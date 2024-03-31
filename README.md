@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumbreakz&label=Profile%20views&color=0e75b6&style=flat" alt="quantumbreakz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantumbreakz" alt="quantumbreakz" /></a> </p>
-
 - 🌱 I’m currently learning **about MERN,ML,AI,Low-level Compilers,Deep-learning and DevOps💻.**
 
 - 💬 Ask me about **C++,Python**
