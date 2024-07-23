@@ -65,4 +65,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ali-ahmed&style=flat-square&color=blue)
 
 <!-- Custom Background -->
-<img src="https://github.com/ali-ahmed/ali-ahmed/blob/main/assets/background.png" alt="background" style="width:100%; height:auto;">
+<img src="https://source.unsplash.com/random/1600x900" alt="background" style="width:100%; height:auto;">
