@@ -1,5 +1,8 @@
 # Ali Ahmed / README.md
 
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ali-ahmed&style=flat-square&color=blue)
+
 ## About Me:
 🧑‍💼 I'm currently working on Data Mining, Data Engineering, Data Analysis, ML Algorithms and DL Algorithms.  
 💬 Ask me about anything related to Data Science!
@@ -57,8 +60,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-ahmed&repo=Clustering-Algorithms&theme=dark)](https://github.com/ali-ahmed/Clustering-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-ahmed&repo=Space-Invaders&theme=dark)](https://github.com/ali-ahmed/Space-Invaders)
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ali-ahmed&style=flat-square&color=blue)
-
-<!-- Custom Background -->
-<img src="https://source.unsplash.com/random/1600x900" alt="background" style="width:100%; height:auto;">
