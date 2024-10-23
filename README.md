@@ -53,10 +53,4 @@
 ## Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Top Contributed Repos
-<!-- This section will dynamically fetch the top contributed repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-ahmed&repo=Inventory-Management-System&theme=dark)](https://github.com/ali-ahmed/Inventory-Management-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-ahmed&repo=Word-Wiz-Website&theme=dark)](https://github.com/ali-ahmed/Word-Wiz-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-ahmed&repo=Clustering-Algorithms&theme=dark)](https://github.com/ali-ahmed/Clustering-Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-ahmed&repo=Space-Invaders&theme=dark)](https://github.com/ali-ahmed/Space-Invaders)
 
