@@ -42,7 +42,7 @@
 ## GitHub Stats:
 
 ### Ali Ahmed's GitHub Stats
-![Ali Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-ahmed&show_icons=true&theme=dark&count_private=true)
+![Ali Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumBreakz&show_icons=true&theme=dark&count_private=true)
 
 ### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ahmed&theme=dark&layout=compact)
