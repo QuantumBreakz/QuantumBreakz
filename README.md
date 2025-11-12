@@ -22,39 +22,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel&theme=dark" alt="Frontend" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 
----
-
 ### ⚙️ Backend Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop&theme=dark" alt="Backend" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
-
----
 
 ### ☁️ Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases and Cloud" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 
----
-
 ### 🤖 Data Science & Machine Learning
 <p align="center">
-  <!-- Primary ML stack -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy&theme=dark" alt="ML stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 <p align="center">
-  <!-- Visualization / Notebooks -->
-  <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,plotly&theme=dark" alt="Visualization tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,streamlit,tableau,matplotlib&theme=dark" alt="Data viz & tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
-
----
 
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell&theme=dark" alt="Tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
-
 
 
 
