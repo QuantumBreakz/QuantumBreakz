@@ -1,19 +1,39 @@
-# Ali Ahmed / README.md
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed&fontSize=80&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ali-ahmed&style=flat-square&color=blue)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Data+Scientist;AI+Engineer;Machine+Learning+Researcher;Python+Developer" alt="Typing SVG" />
+</div>
 
-## About Me:
+<br>
+
+## 🎯 About Me
+<div align="center">
+  <img src="./Christian-Dior.gif" width="500" alt="AI Animation"/>
+</div>
+
 <p align="center">
-  <img src="./Christian-Dior.gif" width="400" alt="AI animation" />
+  <em>"Crafting intelligent systems with data, logic, and precision — turning raw data into meaningful insights and real-world impact."</em>
 </p>
-🧑‍💼 I'm currently working on Data Mining, Data Engineering, Data Analysis, ML Algorithms and DL Algorithms.  
-💬 Ask me about anything related to Data Science!
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1043065868923457556) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-hustletothemax92/)
+<div align="center">
+  🧠 Working on **Data Mining, Data Engineering, Data Analysis, ML, and DL Algorithms**  
+  🌱 Exploring **Real-time AI Systems, NLP, and Generative AI**  
+  🤝 Open to collaborate on **AI-driven research projects**  
+  💬 Ask me about **Data Science, ML Models, and Neural Networks**
+</div>
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href="https://discord.com/users/1043065868923457556"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ali-ahmed-hustletothemax92/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -34,10 +54,10 @@
 
 ### 🤖 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy&theme=dark" alt="ML stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy&theme=dark" alt="ML stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,streamlit,tableau,matplotlib&theme=dark" alt="Data viz & tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,streamlit,tableau&theme=dark" alt="Data viz & tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -45,20 +65,46 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell&theme=dark" alt="Tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 
+---
 
+## 📊 GitHub Analytics
 
-## GitHub Stats:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumBreakz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-### Ali Ahmed's GitHub Stats
-![Ali Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumBreakz&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuantumBreakz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBreakz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF"/>
+</div>
 
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBreakz&theme=dark&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumBreakz&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
+</div>
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=QuantumBreakz&theme=darkhub)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumBreakz&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
-## Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
+## ✨ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
+---
+
+## 📈 Profile Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantumBreakz&color=6A5ACD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/QuantumBreakz?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/QuantumBreakz?label=Stars&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Stars"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💜 Thanks for visiting my profile! Have an amazing day 💜</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60px" alt="Heart"/>
+</div>
