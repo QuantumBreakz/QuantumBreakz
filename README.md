@@ -18,10 +18,12 @@
 </p>
 
 <div align="center">
-  🧠 Working on **Data Mining, Data Engineering, Data Analysis, ML & DL Algorithms**  
-  🌱 Exploring **Real-time AI Systems, NLP & Generative AI**  
-  🤝 Open to collaborate on **AI-driven research & production**  
-  💬 Ask me about **Data Science, ML Models & Neural Networks**
+  
+🧠 Working on **Data Mining, Data Engineering, Data Analysis, ML & DL Algorithms**  
+🌱 Exploring **Real-time AI Systems, NLP & Generative AI**  
+🤝 Open to collaborate on **AI-driven research & production**  
+💬 Ask me about **Data Science, ML Models & Neural Networks**
+
 </div>
 
 ---
@@ -39,58 +41,74 @@
 
 ### 💻 Frontend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel&theme=dark" alt="Frontend" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop&theme=dark" alt="Backend" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker&theme=dark" alt="Backend"/>
 </p>
 
 ### ☁️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases & Cloud" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases & Cloud"/>
 </p>
 
 ### 🤖 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy&theme=dark" alt="ML Stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="ML Stack"/>
+  <br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
+
+### 📊 Data Visualization & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,streamlit,tableau&theme=dark" alt="Data Viz & Tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell&theme=dark" alt="Tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,powershell&theme=dark" alt="Tools"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
 | Project | Description | Repository |
-|--------|-------------|------------|
-| **:contentReference[oaicite:0]{index=0}** | Retrieval-Augmented Generation Chatbot: Built a full-stack chatbot powered by RAG techniques, integrating LLMs with custom knowledge bases. | [View Repo](https://github.com/QuantumBreakz/RAG-CHATBOT) |
-| **:contentReference[oaicite:1]{index=1}** | A personalized virtual doctor system leveraging sentiment & emotion spectrum analysis, delivering tailored diagnostics and insights. | [View Repo](https://github.com/QuantumBreakz/Virtual-Doctor) |
-| **:contentReference[oaicite:2]{index=2}** | IoT/Smart-Environments project using the MQTT protocol to monitor & control distributed sensors in real-time. | [View Repo](https://github.com/QuantumBreakz/MQTT-K-Project) |
-| **:contentReference[oaicite:3]{index=3}** | Agile team productivity platform/ dashboard built with full-stack technologies to track tasks, sprints, and team metrics. | [View Repo](https://github.com/QuantumBreakz/WorkMatrix) |
+|---------|-------------|------------|
+| **RAG Chatbot** | Retrieval-Augmented Generation Chatbot: Built a full-stack chatbot powered by RAG techniques, integrating LLMs with custom knowledge bases. | [View Repo](https://github.com/QuantumBreakz/RAG-CHATBOT) |
+| **Virtual Doctor** | A personalized virtual doctor system leveraging sentiment & emotion spectrum analysis, delivering tailored diagnostics and insights. | [View Repo](https://github.com/QuantumBreakz/Virtual-Doctor) |
+| **MQTT IoT System** | IoT/Smart-Environments project using the MQTT protocol to monitor & control distributed sensors in real-time. | [View Repo](https://github.com/QuantumBreakz/MQTT-K-Project) |
+| **WorkMatrix** | Agile team productivity platform/dashboard built with full-stack technologies to track tasks, sprints, and team metrics. | [View Repo](https://github.com/QuantumBreakz/WorkMatrix) |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QuantumBreakz&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumBreakz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
+
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuantumBreakz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBreakz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF" alt="Most Used Languages"/>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumBreakz&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumBreakz&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -117,4 +135,10 @@
 <div align="center">
   <h3>💜 Thanks for visiting my profile! Have an amazing day 💜</h3>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60px" alt="Heart"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
