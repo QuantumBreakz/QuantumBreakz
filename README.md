@@ -15,20 +15,45 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-hustletothemax92/)
 
-🛠️ Tech Stack
-💻 Frontend Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel&theme=dark" alt="Frontend Tech Stack" /> </p>
-⚙️ Backend Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop&theme=dark" alt="Backend Tech Stack" /> </p>
-☁️ Databases & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases and Cloud" /> </p>
-🤖 Data Science & Machine Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="Machine Learning Stack" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,plotly&theme=dark" alt="Data Visualization Tools" /> </p>
-🧰 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,linux,powershell&theme=dark" alt="Tools and Platforms" /> </p>
+## 🛠️ Tech Stack
 
+### 💻 Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel&theme=dark" alt="Frontend" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+</p>
 
+---
 
+### ⚙️ Backend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop&theme=dark" alt="Backend" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+</p>
+
+---
+
+### ☁️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases and Cloud" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+</p>
+
+---
+
+### 🤖 Data Science & Machine Learning
+<p align="center">
+  <!-- Primary ML stack -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy&theme=dark" alt="ML stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+</p>
+<p align="center">
+  <!-- Visualization / Notebooks -->
+  <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,plotly&theme=dark" alt="Visualization tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell&theme=dark" alt="Tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+</p>
 
 
 
