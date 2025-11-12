@@ -15,31 +15,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-hustletothemax92/)
 
-## :hammer_and_wrench: Tech Stack
-### :computer: Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel" />
-</p>
-
-### :gear: Backend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop" />
-</p>
-
-### :file_cabinet: Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,mongodb" />
-</p>
-
-### :robot: Data Science & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matplotlib,pandas,plotly" />
-</p>
-
-### :wrench: Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell" />
-</p>
+🛠️ Tech Stack
+💻 Frontend Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel" /> </p>
+⚙️ Backend Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop" /> </p>
+🗄️ Databases & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,mongodb" /> </p>
+🤖 Data Science & Machine Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matplotlib,pandas,plotly" /> </p>
+🧰 Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell" /> </p>
 
 
 
