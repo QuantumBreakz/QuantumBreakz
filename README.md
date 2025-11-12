@@ -37,7 +37,7 @@
 </p>
 
 ### :wrench: Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell" />
 </p>
 
