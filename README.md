@@ -38,7 +38,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%230072C6.svg?style=for-the-badge&logo=MLflow&logoColor=white)
 ---
-### :robot_face: Data Science & Machine Learning
+### :robot: Data Science & Machine Learning
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
