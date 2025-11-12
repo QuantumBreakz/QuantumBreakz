@@ -4,6 +4,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ali-ahmed&style=flat-square&color=blue)
 
 ## About Me:
+<p align="center">
+  <img src="./Christian-Dior.gif" width="400" alt="AI animation" />
+</p>
 🧑‍💼 I'm currently working on Data Mining, Data Engineering, Data Analysis, ML Algorithms and DL Algorithms.  
 💬 Ask me about anything related to Data Science!
 
