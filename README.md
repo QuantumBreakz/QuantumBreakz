@@ -17,17 +17,15 @@
 
 🛠️ Tech Stack
 💻 Frontend Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel&theme=dark" alt="Frontend Tech Stack" /> </p>
 ⚙️ Backend Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop" /> </p>
-🗄️ Databases & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,mongodb" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop&theme=dark" alt="Backend Tech Stack" /> </p>
+☁️ Databases & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases and Cloud" /> </p>
 🤖 Data Science & Machine Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matplotlib,pandas,plotly" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="Machine Learning Stack" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=jupyter,matplotlib,plotly&theme=dark" alt="Data Visualization Tools" /> </p>
 🧰 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell" /> </p>
-
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,linux,powershell&theme=dark" alt="Tools and Platforms" /> </p>
 
 
 
