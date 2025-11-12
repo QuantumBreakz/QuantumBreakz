@@ -18,19 +18,19 @@
 </p>
 
 <div align="center">
-  🧠 Working on **Data Mining, Data Engineering, Data Analysis, ML, and DL Algorithms**  
-  🌱 Exploring **Real-time AI Systems, NLP, and Generative AI**  
-  🤝 Open to collaborate on **AI-driven research projects**  
-  💬 Ask me about **Data Science, ML Models, and Neural Networks**
+  🧠 Working on **Data Mining, Data Engineering, Data Analysis, ML & DL Algorithms**  
+  🌱 Exploring **Real-time AI Systems, NLP & Generative AI**  
+  🤝 Open to collaborate on **AI-driven research & production**  
+  💬 Ask me about **Data Science, ML Models & Neural Networks**
 </div>
 
 ---
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://discord.com/users/1043065868923457556"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ali-ahmed-hustletothemax92/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/1043065868923457556"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/ali-ahmed-hustletothemax92/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -49,15 +49,15 @@
 
 ### ☁️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases and Cloud" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&theme=dark" alt="Databases & Cloud" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 
 ### 🤖 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy&theme=dark" alt="ML stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy&theme=dark" alt="ML Stack" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,streamlit,tableau&theme=dark" alt="Data viz & tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,streamlit,tableau&theme=dark" alt="Data Viz & Tools" style="display:inline-block;margin:8px 6px;vertical-align:middle"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -67,15 +67,25 @@
 
 ---
 
+## 🚀 Featured Projects
+| Project | Description | Repository |
+|--------|-------------|------------|
+| **:contentReference[oaicite:0]{index=0}** | Retrieval-Augmented Generation Chatbot: Built a full-stack chatbot powered by RAG techniques, integrating LLMs with custom knowledge bases. | [View Repo](https://github.com/QuantumBreakz/RAG-CHATBOT) |
+| **:contentReference[oaicite:1]{index=1}** | A personalized virtual doctor system leveraging sentiment & emotion spectrum analysis, delivering tailored diagnostics and insights. | [View Repo](https://github.com/QuantumBreakz/Virtual-Doctor) |
+| **:contentReference[oaicite:2]{index=2}** | IoT/Smart-Environments project using the MQTT protocol to monitor & control distributed sensors in real-time. | [View Repo](https://github.com/QuantumBreakz/MQTT-K-Project) |
+| **:contentReference[oaicite:3]{index=3}** | Agile team productivity platform/ dashboard built with full-stack technologies to track tasks, sprints, and team metrics. | [View Repo](https://github.com/QuantumBreakz/WorkMatrix) |
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QuantumBreakz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumBreakz&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuantumBreakz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBreakz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuantumBreakz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBreakz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=FFFFFF" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
@@ -88,14 +98,14 @@
 
 ---
 
-## ✨ Random Dev Quote
+## ✨ Random Dev Quote  
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
 
-## 📈 Profile Stats
+## 📈 Profile Metrics  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=QuantumBreakz&color=6A5ACD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/QuantumBreakz?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=000000" alt="GitHub Followers"/>
