@@ -17,25 +17,25 @@
 
 ## :hammer_and_wrench: Tech Stack
 ### :computer: Frontend Technologies
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,laravel" />
 </p>
----
+
 ### :gear: Backend Technologies
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,php,cpp,docker,hadoop" />
 </p>
----
+
 ### :file_cabinet: Databases & Cloud
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,mongodb" />
 </p>
----
+
 ### :robot_face: Data Science & Machine Learning
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matplotlib,pandas,plotly" />
 </p>
----
+
 ### :wrench: Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva,powershell" />
