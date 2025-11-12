@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,gcp,mongodb" />
 </p>
 
-### :robot_face: Data Science & Machine Learning
+### :robot: Data Science & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matplotlib,pandas,plotly" />
 </p>
